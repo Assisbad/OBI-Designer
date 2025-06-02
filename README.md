@@ -57,3 +57,6 @@ The experiment takes the Hanyi Chen-style oracle bone script[^1] developed joint
 The 1st and 2nd rows in the picture are oracle bone characters, the 2nd and 3rd rows are characters after the shape has been changed, and the 4th and 5th rows are characters after adding texture.
 
 ![example](asset/example.png)
+
+Our code is modified based on the [Word-As-Image]([Shiriluz/Word-As-Image](https://github.com/Shiriluz/Word-As-Image))
+
