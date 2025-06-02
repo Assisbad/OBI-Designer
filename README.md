@@ -58,5 +58,5 @@ The 1st and 2nd rows in the picture are oracle bone characters, the 2nd and 3rd 
 
 ![example](asset/example.png)
 
-Our code is modified based on the [Word-As-Image]([Shiriluz/Word-As-Image](https://github.com/Shiriluz/Word-As-Image))
+Our code is modified based on the [Word-As-Image](https://github.com/Shiriluz/Word-As-Image.git)
 
