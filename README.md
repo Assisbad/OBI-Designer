@@ -5,7 +5,7 @@
 1. Character glyph design: As a pictographic script, oracle bone script has a complex structure, many strokes and a single character has a complete meaning. If the entire character is deformed, the deformed character will be unrecognizable. Therefore, **part of the character is used as the deformation object**.
 1. Diffusion model (SD) and DDIM inversion are used to perform interval score matching to match the text contour with the prompt semantics.
 
-![pipline](asset\pipline.png)
+![pipline](asset/pipline.png)
 
 ### 1.2 Environment Configuration（Ubuntu 20.04）
 
@@ -56,4 +56,4 @@ The experiment takes the Hanyi Chen-style oracle bone script[^1] developed joint
 
 The 1st and 2nd rows in the picture are oracle bone characters, the 2nd and 3rd rows are characters after the shape has been changed, and the 4th and 5th rows are characters after adding texture.
 
-![example](asset\example.png)
+![example](asset/example.png)
